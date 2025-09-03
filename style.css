@@ -1,3 +1,17 @@
-.name{
-    
+body {
+    text-align: center;
+    font-family: monospace;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    gap: 20px;
+}
+
+.box {
+    width: 350px;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    padding: 10px 20px;
 }
